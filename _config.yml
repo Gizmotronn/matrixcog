@@ -5,7 +5,7 @@ description:        "I'm a developer that plays games and builds robots"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.PNG'
-background:         'assets/img/placeholder-big.jpg'
+background:         'assets/img/game-development.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                https://irisdroidology.github.io/opustherobot
