@@ -1,26 +1,20 @@
 ---
 layout: page
-title: About the Theme
+title: About me
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
-comments: false
+date: 2019-05-21
+comments: true
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="http://acord.tech/news"><b>ACORD</b></a> is an Australian Robotics company.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## About me
+Hi there! My name is Liam (or Limo), and I'm a developer that makes robots and produces Youtube videos, primarily about the popular voxel-based game called Minecraft.
 
-## Preview
+## Most recent minecraft videos
+
+### Episode 11 - Successful mining trip
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3Uvw_byWZ_o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 {% capture images %}
     https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
