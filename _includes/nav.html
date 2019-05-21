@@ -99,7 +99,22 @@
                     <li><a href="http://acord.tech/news">News</a></li>
                     <li><a href="http://acord.tech/gitlab">Gitlab</a></li>
                 </ul>    
-            </li>        
+            </li>       
+            <li>
+                <a href="http://acord.tech/gitlab">Games</a>
+                <ul class="dl-submenu">
+                    <li><a href="http://acord.tech/pom1">Pythons of Mars</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="http://acord.tech/youtube">Youtube</a>
+                <ul class="dl-submenu">
+                    <li><a href="http://irisdroidology.github.io/opustherobot/youtube">Latest Videos</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="http://irisdroidology.github.io/opustherobot/contact">Contact Me</a>
+            </li>    
 			{% for link in site.data.navigation %}
 		    {% if link.url contains 'http' %}
 		        {% assign domain = '' %}
