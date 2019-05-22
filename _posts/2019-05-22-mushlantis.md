@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Moon Jekyll Theme"
-date:   2016-04-06
-excerpt: "Minimal, one column Jekyll theme for your blog."
+title:  "Mushlantis - A Minecraft World"
+date:   2019-21-05
+excerpt: "A Minecraft world filled with redstone contraptions and Star-Wars themed builds"
 project: true
 tag:
 - jekyll 
