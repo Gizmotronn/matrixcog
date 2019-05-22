@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mushlantis - A Minecraft World"
-date:   2019-21-05
+date:   2019-05-21
 excerpt: "A Minecraft world filled with redstone contraptions and Star-Wars themed builds"
 project: true
 tag:
