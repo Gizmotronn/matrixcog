@@ -25,3 +25,5 @@ __Episode 11__
 	<img src="/img/image-filename-3.jpg">
 	<figcaption>Caption describing these three images.</figcaption>
 </figure>
+
+![Green_Mushroom](assets/img/greenmushroom.png)
