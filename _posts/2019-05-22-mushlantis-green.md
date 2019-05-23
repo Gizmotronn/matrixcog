@@ -36,7 +36,7 @@ In this episode I raid 4 desert temples, 1 shipwreck and find 1 set of buried tr
 <figure class="third">
 	<img src="https://pbs.twimg.com/media/D7Nlx1oVsAAM4a2.jpg">
 	<img src="https://pbs.twimg.com/media/D7Nlx0zU8AAVK71.jpg">
-	<img src="http://i.imgur.com/mSSyOZx.jpg">
+	<img src="https://i.ytimg.com/vi/HEQVWgdRb88/maxresdefault.jpg">
 	<figcaption>Twitter photos</figcaption>
 </figure>
 
