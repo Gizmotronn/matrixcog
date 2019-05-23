@@ -20,8 +20,8 @@ __Episode 11__
 
 # Photos
 <figure class="third">
-	<img src="/images/ 	Minecraft 23_05_2019 8_26_51 AM.png">
-	<img src="/images/image-filename-2.jpg">
+	<img src="/assets/images/Minecraft 23_05_2019 8_26_51 AM.png">
+	<img src="/images/Minecraft 23_05_2019 8_26_51 AM.png">
 	<img src="/images/image-filename-3.jpg">
 	<figcaption>Caption describing these three images.</figcaption>
 </figure>
