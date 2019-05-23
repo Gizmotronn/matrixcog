@@ -17,8 +17,20 @@ Here are the videos that are relevant to this post:
 __Episode 11__
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3Uvw_byWZ_o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+In this episode we collect a number of diamonds and iron from our mining trip and take another look at our trophy room.
+
+__Episode 12__
+In this episode I raid 4 desert temples, 1 shipwreck and find 1 set of buried treasure (and a few villages). This episode was originally going to be another mining episode, but I couldn't find any diamonds and I decided to try and find some temples. I travelled around 5000 blocks away from spawn to find those temples, and I eventually got back to the base via a nether portal that I created without a flint and steel, and without a fire charge. We also started working on terraforming the mushroom biome.
 
 # Photos
+<figure class="third">
+	<img src="https://pbs.twimg.com/media/D7Nlx1oVsAAM4a2.jpg">
+	<img src="https://pbs.twimg.com/media/D7Nlx0zU8AAVK71.jpg">
+	<img src="https://pbs.twimg.com/media/D7Nlx04UIAA84yN.jpg">
+	<figcaption>Twitter photos</figcaption>
+</figure>
+
+# Why terraform?
 <figure class="third">
 	<img src="https://pbs.twimg.com/media/D7Nlx1oVsAAM4a2.jpg">
 	<img src="https://pbs.twimg.com/media/D7Nlx0zU8AAVK71.jpg">
