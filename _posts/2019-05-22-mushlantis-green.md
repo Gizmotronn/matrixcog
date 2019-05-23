@@ -20,10 +20,8 @@ __Episode 11__
 
 # Photos
 <figure class="third">
-	<img src="/assets/img/Minecraft 23_05_2019 8_26_51 AM.png">
+	<img src="/opustherobot/assets/img/Minecraft 23_05_2019 8_26_51 AM.png">
 	<img src="/img/Minecraft 23_05_2019 8_26_51 AM.png">
 	<img src="/img/image-filename-3.jpg">
 	<figcaption>Caption describing these three images.</figcaption>
 </figure>
-
-![image-title-here](/assets/img/Minecraft 23_05_2019 8_26_51 AM.png){:class="img-responsive"}
