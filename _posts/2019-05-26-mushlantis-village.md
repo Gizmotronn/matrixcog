@@ -10,8 +10,10 @@ comments: false
 # Inspiration from the web
 This image shows a version of the village wheat farms, but mushrooms have been planted instead
 ![Full-width image](https://pbs.twimg.com/media/D7dqYBjV4AE5wcb.jpg){:.lead data-width="800" data-height="100"}
-
 ![Full-width image](https://i772.photobucket.com/albums/yy5/1bbrown/2012-09-05_052703.png)
+
+These images are examples of vanilla village houses that have been remodeled.
+![Full-width image](https://i.pinimg.com/736x/7d/2c/14/7d2c142644e52102e87d9620b8237a1a--minecraft-village-houses-minecraft-remodel-village.jpg)
 
 
 
