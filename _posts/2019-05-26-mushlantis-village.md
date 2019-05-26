@@ -9,7 +9,7 @@ comments: false
 
 # Inspiration from the web
 <figure class="third">
-	<img src="https://i772.photobucket.com/albums/yy5/1bbrown/2012-09-05_052736.png>
+	<img src="https://pbs.twimg.com/media/D7dqYBjV4AE5wcb.jpg:large>
 	<img src="https://pbs.twimg.com/media/D7Nlx0zU8AAVK71.jpg">
 	<img src="https://pbs.twimg.com/media/D7Nlx04UIAA84yN.jpg">
 	<figcaption>Examples of custom villages in mushroom biomes</figcaption>
