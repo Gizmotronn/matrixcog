@@ -1,12 +1,12 @@
 # Site
-name: John Doe
-description: Just another website
-meta_description: Just another website
+name: OpusTheRobot
+description: Web developer & youtuber
+meta_description: Web developer & youtuber
 logo: /assets/images/logo.png
 favicon: /assets/images/favicon.ico
 paginate: 6
 baseurl:
-email: 'hello@john.doe'
+email: 'limo@allianceofdroids.org.au'
 google_analytics:
 disqus: xjekyll
 sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a1a46b37b0f3600122c23bc&product=sticky-share-buttons"></script>'
@@ -14,13 +14,13 @@ sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/
 # Authors
 authors:
   john:
-    name: john
-    display_name: John Doe
+    name: Liam
+    display_name:  Liam Arbuckle
     image: /assets/images/john.jpg
-    email: hello@john.doe
-    web: example.com
-    twitter:
-    description: Hi, I am John Doe.
+    email: opus@allianceofdroids.org.au
+    web: acord.tech/opus
+    twitter: OpusTheRobot
+    description: Hi, I'm a youtuber and a developer.
 
 # Plugins
 plugins:
@@ -44,7 +44,7 @@ highlighter: rouge
 
 # SEO
 twitter:
-  username: john
+  username: OpusTheRobot
   card: summary
 
 facebook:
@@ -55,7 +55,7 @@ facebook:
 social:
 name: John Doe
 links:
-    - https://twitter.com/
-    - https://www.facebook.com/
+    - https://twitter.com/OpusTheRobot
+    - https://www.facebook.com/droidology
     - https://www.linkedin.com/
-    - https://github.com/
+    - https://github.com/irisdroidology
