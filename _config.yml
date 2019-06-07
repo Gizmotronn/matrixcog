@@ -2,7 +2,7 @@
 name: OpusTheRobot
 description: Web developer & youtuber
 meta_description: Web developer & youtuber
-logo: /assets/images/logo.png
+logo: /assets/images/logo.png.jpg
 favicon: /assets/images/favicon.ico
 paginate: 6
 baseurl:
@@ -16,7 +16,7 @@ authors:
   john:
     name: Liam
     display_name:  Liam Arbuckle
-    image: /assets/images/john.jpg
+    image: /assets/images/logo.png.jpg
     email: opus@allianceofdroids.org.au
     web: acord.tech/opus
     twitter: OpusTheRobot
